@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-watermark-screenshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1181.0",
+    "bannerbear": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "jimp": "^0.16.1",
+    "merge-img": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^15.5.0",
+    "split-images": "^1.0.4"
+  }
+}
